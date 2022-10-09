@@ -1,0 +1,26 @@
+; - Radar sector: SUEO_CTR Sector File
+; - Version: 2022
+;
+; - Updated by: Miguel Pacheco - 670092
+; -------------------------------------------------------------------- 
+; - (c)2021 IVAO Uruguayan Division
+; - Usage only allowed on the IVAO Network or at IVAO related events
+; -------------------------------------------------------------------- 
+
+[INFO]
+S032.48.28.375
+W056.13.04.479
+60
+51
+-10
+SUEO
+
+[AIRPORT]
+F;SUEO.apt
+
+[RUNWAY]
+F;SUEO.rwy
+
+[DEFINE]
+FCLBORDER;#181818;
+FCLFILL;#606060;
