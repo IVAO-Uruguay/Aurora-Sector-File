@@ -1,0 +1,13 @@
+//--------------------------------------------
+//        ARGENTINIAN AIRPORTS NEAR URUGUAY
+//--------------------------------------------
+SABE;18;0;-34.5592;-58.4156;Jorge Newbery Airpark;
+SADF;10;0;S034.27.18.000;W058.35.29.000;San Fernando Airport;
+SADM;95;0;S034.40.45.000;W058.38.37.000;Moron Airport;
+SADO;78;0;-34.5344;-58.6717;Campo De Mayo Airport MIL;
+SADP;59;0;-34.6099;-58.6126;El Palomar Airport;
+SAEZ;67;0;-34.8222;-58.5358;Ministro Pistarini International Airport;
+//--------------------------------------------
+//            URUGUAYAN AIRPORTS
+//--------------------------------------------
+SUAA;174;0;-34.7892;-56.264702;Angel S Adami Airport;
