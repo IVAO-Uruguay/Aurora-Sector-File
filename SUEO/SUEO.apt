@@ -1,14 +1,43 @@
-//--------------------------------------------
-//        ARGENTINIAN AIRPORTS NEAR URUGUAY
-//--------------------------------------------
 SABE;18;0;-34.5592;-58.4156;Jorge Newbery Airpark;
 SADF;10;0;S034.27.18.000;W058.35.29.000;San Fernando Airport;
 SADM;95;0;S034.40.45.000;W058.38.37.000;Moron Airport;
 SADO;78;0;-34.5344;-58.6717;Campo De Mayo Airport MIL;
 SADP;59;0;-34.6099;-58.6126;El Palomar Airport;
 SAEZ;67;0;-34.8222;-58.5358;Ministro Pistarini International Airport;
-//--------------------------------------------
-//            URUGUAYAN AIRPORTS
-//--------------------------------------------
 SUAA;174;0;-34.7892;-56.264702;Angel S Adami Airport;
-SUMU;105;0;S034.50.02.000;W056.01.41.000;Carrasco International / General C L Berisso Airport;
+SUAG;410;0;S030.23.57.000;W056.30.39.000;Artigas International Airport;
+SUAN;49;0;S034.16.32.000;W057.57.50.000;Anchorena Airport;
+SUAY;153;0;-30.938271;-57.517528;Termas del Arapey Airport;
+SUBL;131;0;-34.811533;-56.164317;Capitán Juan Manuel Boiso Lanza Air Base;
+SUBU;70;0;S030.19.00.000;W057.33.00.000;Bella Union Airport;
+SUCA;66;0;S034.27.05.000;W057.46.01.000;Laguna de Los Patos International Airport;
+SUCD;554;0;-33.875502;-57.397875;Cardona Airport;
+SUCH;59;0;S033.43.00.000;W053.28.00.000;Chuy Airport;
+SUCL;501;0;S034.17.26.000;W055.21.19.000;La Calera Airport;
+SUCM;42;0;-33.96611;-58.325279;Carmelo  Airport;
+SUCN;98;0;S034.31.43.000;W056.16.54.000;Aeroclub Canelones;
+SUDU;305;0;S033.21.23.000;W056.29.46.000;Santa Bernardina International Airport;
+SUFT;490;0;-31.703611;-55.943056;Frigorifico Tacuarembó Airport;
+SUGA;38;0;-34.7469;-55.961;Military Aeronautical School;
+SUGN;291;0;-32.3478;-57.1894;Guichón Airfield;
+SUJL;40;0;-34.415352;-57.46422;Juan Lacaze Airport;
+SUJP;316;0;-33.4753;-54.539702;José Pedro Varela Airport;
+SULS;95;0;S034.51.26.000;W055.05.53.000;Capitan Corbeta CA Curbelo International Airport;
+SUME;68;0;-33.2489;-58.0737;Ricardo Detomasi Airport;
+SUMI;458;0;-34.345455;-55.227522;Minas Municipal Airfield;
+SUMO;364;0;S032.20.33.000;W054.13.19.000;Cerro Largo International Airport;
+SUMU;105;0;S034.50.02.000;W056.01.41.000;Carrasco International /General C L Berisso Airport;
+SUPC;184;0;-32.379601;-58.029761;Charles Chalkling Airport;
+SUPE;66;0;S034.54.47.000;W054.55.09.000;El Jagüel / Punta del Este Airport;
+SUPU;138;0;S032.21.47.000;W058.03.59.000;Tydeo Larre Borges Airport;
+SURB;55;0;-32.58305740356445;-53.454166412353516;Rio Branco Airport;
+SURV;712;0;S030.58.10.000;W055.28.24.000;Presidente General Don Oscar D. Gestido International Airport;
+SUSG;371;0;-32.526501;-55.841636;San Gregorio Airport;
+SUSJ;229;0;-34.350554;-56.752438;San José Airport;
+SUSO;187;0;S031.26.05.000;W057.59.03.000;Nueva Hesperides International Airport;
+SUTB;440;0;S031.45.01.000;W055.55.26.000;Tacuarembo Airport;
+SUTG;273;0;S030.26.00.000;W057.28.00.000;Tomás Gomenzoro Airport;
+SUTR;337;0;-33.195714;-54.347246;Treinta y Tres Airport;
+SUVO;488;0;S031.44.21.000;W054.35.16.000;Vichadero Airport;
+SUYI;460;0;S033.19.00.000;W055.36.00.000;Sarandí del Yí Airport;
+SUYN;230;0;-32.6872;-57.6581;Young Airport;
