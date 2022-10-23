@@ -1,5 +1,7 @@
 # SECTOR FILE CHANGELOG
 
+### Updates of the new sector file of AIRAC 2210
+
 ## Added
 * ### SUMU
     * ILS Y or LOC ONLY Y RWY 19 (IAF DIDOL or ETIRI)
