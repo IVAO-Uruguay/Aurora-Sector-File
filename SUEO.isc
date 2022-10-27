@@ -1,22 +1,35 @@
 ; - Radar sector: SUEO_CTR Sector File
-; - Version: 2022
+; - Version:  2014
+; - Built By: Gabriel Dominguez & Fabio Arias
 ;
-; - Updated by: Miguel Pacheco - 670092
+; - Updated By: Matheus Antunes - 182860
+;		        Emanuel Correa  - 469439
+;               Ezequiel Arpajou - 476050
+;               Brais Carnero - 463764 - AOA1
+;               Sergio Martinez Poveda - 273342 - AOC 	
+;               Miguel Pacheco - 670092 - WM  
+;               Alan Gallo (AR Division) - 275744 
+; - Aurora Conversion By: Emanuel Correa - 469439
 ; -------------------------------------------------------------------- 
 ; - (c)2021 IVAO Uruguayan Division
 ; - Usage only allowed on the IVAO Network or at IVAO related events
 ; -------------------------------------------------------------------- 
-
 [INFO]
 S032.48.28.375
 W056.13.04.479
 60
 51
 -10
-SUEO
+SUEO;SUEO/SIDS;SUEO/STARS;SUEO/GATES;SUEO/TAXIWAYS;SUEO/POLYLINE;SUEO/COLORS;SUEO/MVA;SUEO/POLYGON;
 
-[GEO]
-F;SUEO.geo
+[NDB]
+F;NAVAIDSSUEO.ndb
+
+[FIXES]
+F;NAVAIDS/SUEO.fix
+
+[VOR]
+F;NAVAIDS/SUEO.vor
 
 [AIRPORT]
 F;SUEO.apt
@@ -24,6 +37,46 @@ F;SUEO.apt
 [RUNWAY]
 F;SUEO.rwy
 
+[LOW AIRWAY]
+F;SUEOlow.awy
+
+[HIGH AIRWAY]
+F;SUEOhigh.awy
+
+[ARTCC LOW]
+F;ARTCC/SUEOlow.artcc
+
+[ARTCC HIGH]
+F;ARTCC/SUEOhigh.artcc
+
+[ARTCC]
+F;ARTCC/SUEO.artcc
+
+[GEO]
+F;GEO/SUEO.geo
+F;GEO/SUMU.geo
+F;GEO/SUDU.geo
+F;GEO/SULS.geo
+
+[FILLCOLOR]
+F;SUEO.fcl
+F;POLYGON/mv_ad_gnd.pol
+F;POLYGON/du_ad_gnd.pol
+F;POLYGON/cu_ad_gnd.pol
+
+[ATC]
+F;SUEO.atc
+
 [DEFINE]
 FCLBORDER;#181818;
 FCLFILL;#606060;
+COAST;#406230;
+TAXIWAY;#767587;
+APRON;#767587;
+BUILDING;#202000;
+RUNWAY;#333333;
+STOPBAR;#FA0000;
+RESTRICT;#646464;
+GRASS;#406230;
+MARKING;#DCDCDC;
+YELLOW;#F5F51F;
