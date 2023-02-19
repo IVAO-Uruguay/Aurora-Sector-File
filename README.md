@@ -44,3 +44,8 @@
     * VOR RWY05 Updated
     * VOR RWY23 Updated
     * NDB RWY 05 Updated
+    
+* ### General 
+    * Change RWY numbers on SUMU
+    * Created pol files
+    * add Taxiways and Stands for Adami and other airports
