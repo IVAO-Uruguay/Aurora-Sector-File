@@ -1,4 +1,4 @@
-# SECTOR FILE CHANGELOG
+# AURORA SECTOR FILE CHANGELOG
 
 ### Updates of the new sector file of AIRAC 2210
 
