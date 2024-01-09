@@ -5,10 +5,9 @@
 ; - Updated By: Matheus Antunes - 182860
 ;		        Emanuel Correa  - 469439
 ;               Ezequiel Arpajou - 476050
-;               Brais Carnero - 463764 - AOA1
-;               Sergio Martinez Poveda - 273342 - AOC 	
-;               Miguel Pacheco - 670092 - WM  
-;               Alan Gallo (AR Division) - 275744 
+;               Brais Carnero-463764-AOA1
+;               Sergio Martinez Poveda - 273342 	
+;               Miguel Pacheco - 670092     
 ; - Aurora Conversion By: Emanuel Correa - 469439
 ; -------------------------------------------------------------------- 
 ; - (c)2021 IVAO Uruguayan Division
@@ -20,10 +19,10 @@ W056.13.04.479
 60
 51
 -10
-SUEO;SUEO/SIDS;SUEO/STARS;SUEO/GATES;SUEO/TAXIWAYS;SUEO/POLYLINE;SUEO/COLORS;SUEO/MVA;SUEO/POLYGON;
+SUEO;SUEO/SID;SUEO/STAR;SUEO/GATES;SUEO/TAXIWAYS;SUEO/POLYLINE;SUEO/COLORS;SUEO/MVA;SUEO/POLYGON;
 
 [NDB]
-F;NAVAIDSSUEO.ndb
+F;NAVAIDS/SUEO.ndb
 
 [FIXES]
 F;NAVAIDS/SUEO.fix
@@ -52,20 +51,50 @@ F;ARTCC/SUEOhigh.artcc
 [ARTCC]
 F;ARTCC/SUEO.artcc
 
+[VRFROUTE]
+F;SUMU.vtr
+
 [GEO]
 F;GEO/SUEO.geo
 F;GEO/SUMU.geo
 F;GEO/SUDU.geo
 F;GEO/SULS.geo
+F;GEO/SUGA.geo
+F;GEO/SUPE.geo
+F;GEO/SUCA.geo
+F;GEO/SUAA.geo
+F;GEO/SUCM.geo
+F;GEO/SUSO.geo
+F;GEO/SUAG.geo
+F;GEO/SURV.geo
+F;GEO/SUTB.geo
+F;GEO/SUMO.geo
+F;GEO/SUPU.geo
+F;GEO/SUME.geo
+F;GEO/SUTR.geo
 
 [FILLCOLOR]
 F;SUEO.fcl
 F;POLYGON/mv_ad_gnd.pol
-F;POLYGON/du_ad_gnd.pol
 F;POLYGON/cu_ad_gnd.pol
+F;POLYGON/du_ad_gnd.pol
+F;POLYGON/em_ad_gnd.pol
+F;POLYGON/ej_ad_gnd.pol
+F;POLYGON/lp_ad_gnd.pol
+F;POLYGON/aa_ad_gnd.pol
+F;POLYGON/cm_ad_gnd.pol
+F;POLYGON/so_ad_gnd.pol
+F;POLYGON/ag_ad_gnd.pol
+F;POLYGON/rv_ad_gnd.pol
+F;POLYGON/tb_ad_gnd.pol
+F;POLYGON/mo_ad_gnd.pol
+F;POLYGON/pu_ad_gnd.pol
+F;POLYGON/me_ad_gnd.pol
+F;POLYGON/tr_ad_gnd.pol
 
 [ATC]
 F;SUEO.atc
+F;OTHER\UY_STAFF.atc
 
 [DEFINE]
 FCLBORDER;#181818;
