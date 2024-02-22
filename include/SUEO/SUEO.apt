@@ -15,9 +15,8 @@ SUCD;554;0;-33.875502;-57.397875;Cardona Airport;
 SUCH;59;0;S033.43.00.000;W053.28.00.000;Chuy Airport;
 SUCL;501;0;S034.17.26.000;W055.21.19.000;La Calera Airport;
 SUCM;42;0;-33.96611;-58.325279;Carmelo  Airport;
-SUCN;98;0;S034.31.43.000;W056.16.54.000;Aeroclub Canelones;
+SUCN;98;0;S034.30.54.000;W056.15.40.000;Aeroclub Canelones;
 SUDU;305;0;S033.21.23.000;W056.29.46.000;Santa Bernardina International Airport;
-SUFL;194;0;-34.08583;-56.18667;Centro De Aviación Civil Florida;
 SUFT;490;0;-31.703611;-55.943056;Frigorifico Tacuarembó Airport;
 SUGA;38;0;-34.7469;-55.961;Military Aeronautical School;
 SUGN;291;0;-32.3478;-57.1894;Guichón Airfield;
@@ -42,3 +41,8 @@ SUTR;337;0;-33.195714;-54.347246;Treinta y Tres Airport;
 SUVO;488;0;S031.44.21.000;W054.35.16.000;Vichadero Airport;
 SUYI;460;0;S033.19.00.000;W055.36.00.000;Sarandí del Yí Airport;
 SUYN;230;0;-32.6872;-57.6581;Young Airport;
+SUFL;194;0;-34.08583;-56.18667;Centro De Aviación Florida;
+SUGR;23;0;S034.45.01.000;W055.36.02.000;Aeródromo Green;
+SUFS;12;0;S034.52.11.000;W054.54.29.000;Hotel Fasano
+SUSC;5;0;S034.48.44.941;W054.55.33.368;San Carlos, La Alameda 
+SURI;755;0;S030.57.16.000;W055.32.06.000;Aeródromo Rivera
