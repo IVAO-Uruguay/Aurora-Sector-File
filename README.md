@@ -1,51 +1,102 @@
-# AURORA SECTOR FILE CHANGELOG
+# SUEO SectorFile Aurora
 
-### Updates of the new sector file of AIRAC 2210
+## Airac 2403
 
-## Added
-* ### SUMU
-    * ILS Y or LOC ONLY Y RWY 19 (IAF DIDOL or ETIRI)
-    * ILS Y or LOC ONLY Y RWY 25 (IAF ASOSA or VUPRI)
-    * ILS Z RWY 19
-    * ILS Z RWY 25
-    * RNP Z RWY 01
-    * RNP Z RWY 07
-    * RNP Z RWY 19
-    * RNP Z RWY 25
-    * VOR Z RWY 07
-    * VOR Z RWY 25 (IAF ASOSA or VUPRI)
-* ### SUAA
-    * Added RNP Z RWY 19
-    * Added NDB Z RWY 19 
-* ### SULS
-    * VOR Z RWY01
-    * RNP Z RWY01
-    * VOR Z RWY19
-    * RNP Z RWY19
-    * VOR Z RWY08
-    * RNP Z RWY08
-    * VOR Z RWY26
-    * RNP Z RWY26
+### Added
+- Add HI VOR/DME RWY03
 
-## Remove
-* ### SUMU
-    * Removed SID and STAR procedures
-    * Remove old procedures of RWY 06-24 & RWY 01-19
-* ### SUAA
-    * Removed old procedures of RWY 19
-* ### SULS
-    * Remove old procedures for RWY 01, RWY08, RWY 19 & RWY 26
+### Changed
+- Rectified minor mistake/issues in SUDU (Durazno) Instrumental Approach Procedure.
+- Rectified minor mistake/issues in SUAA (Adami) Instrumental Approach Procedure.
 
-## Modified
-* ### SUMU
-    * Modified RWY 06-24 of SUMU to 07-25
-* ### SUSO 
-    * RNAV(GNSS) RWY05 Updated
-    * VOR RWY05 Updated
-    * VOR RWY23 Updated
-    * NDB RWY 05 Updated
-    
-* ### General 
-    * Change RWY numbers on SUMU
-    * Created pol files
-    * add Taxiways and Stands for Adami and other airports
+### Deleted
+- Deleted ILS/DME RWY21 SUDU
+- Deleted VOR/DME ILS RWY21 SUDU
+- Deleted VOR/DME RWY21 SUDU
+- Deleted VOR RWY21 SUDU
+- Deleted NDB/DME RWY21 SUDU
+- Deleted NDB RWY21 SUDU
+- Suppression of Adami NDB (ASI NDB)
+- Suppression of Durazno NDB (DO NDB)
+- Suppression of Punta del Este NDB (LDS NDB)
+
+---
+
+## Airac 2402
+
+### Added
+- Add new SUVO GEO
+- Add new SURB GEO
+- Add new SUCN GEO
+- Add new SUGR GEO
+- Add new SUFS GEO
+- Add SU(P), SU(R) and SU(D). Special Areas Visible using "S AR" option
+- Add new Montevideo Oceanic Sector (SUEX_OCE_CTR)
+- Add new Montevideo Oriental Oceanic Sector (SUEX_CTR)
+- Add TWR Freq. SUBL
+- Add CTR Freq. SUEX_OCE
+- Add CTR Freq. SUEX
+- Add Aerodromo Green coordinates (ICAO: SUGR)
+- Add Hotel Fasano Ad. coordinates (ICAO: SUFS)
+- Add San Carlos, La Alameda Ad. coordinates (ICAO: SUSC)
+
+### Changed
+- ZOM 5 Sectors A, B, C, D changed from "Active 24h" to "Active from MON-FRI 11z-22z"
+- Modification of Canelon Ad. coordinates
+
+### Deleted
+- **NIL**
+
+---
+
+## Airac 2401
+
+### Added
+- New WPT (MIMOL) to replace Melo VOR
+- New WPT (GEMSU) to connect High/Low Airways UP526-P526/W19
+- Add new SUSO GEO regarding new Taxiways and Stands
+
+### Changed
+- **NIL**
+
+### Deleted
+- Suppression of Melo VOR
+
+---
+
+## Airac 2315.2
+
+### Added
+- New WPT (TEMAL/SEKMI) to replace Salto and Tacuarembo VOR
+- Add VFR Route at Carrasco TMA
+
+### Changed
+- **NIL**
+
+### Deleted
+- Suppression of Salto and Tacuarembo VOR
+
+---
+
+## Airac 2315
+
+### Added
+- Add new SUCM GEO
+- Add new SUSO GEO
+- Add new SUAG GEO
+- Add new SURV GEO
+- Add new SUTB GEO
+- Add new SUMO GEO
+- Add new SUPU GEO and SPC Ad. GEO
+- Add new SUME GEO
+- Add new SUTR GEO
+- Add RWY10/28 at SUTR
+
+### Changed
+- Modification of TWR Freq. SUMO
+
+### Deleted
+- Suppression of VOR/NDB Approaches at SUSO
+- Suppression of RNAV Approach RWY23 at SURV
+- Suppression of VOR/NDB RWY28/10 Approaches at SUTB
+- Suppression of VOR Approach RWY25
